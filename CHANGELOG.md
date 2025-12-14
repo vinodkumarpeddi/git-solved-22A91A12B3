@@ -1,3 +1,7 @@
+# Changelog
+
+This file contains a chronological list of commits generated during the Git Mastery / DevOps Simulator Challenge.
+
 15dfbf0 Revert "feat: add cherry-pick demo comment to monitor script"
 46aee00 feat: add cherry-pick demo comment to monitor script
 741774a chore: demonstrate git stash save and restore
