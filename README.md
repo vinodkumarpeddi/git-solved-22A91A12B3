@@ -107,3 +107,4 @@ Please read CONTRIBUTING.md before submitting pull requests.
 ## License
 MIT License
 
+Temporary change for git stash demonstration.
