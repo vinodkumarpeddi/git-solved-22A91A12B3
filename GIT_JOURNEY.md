@@ -165,3 +165,7 @@ This challenge helped me move well beyond basic Git usage and develop a practica
 Completing this task has given me confidence in using Git professionally within collaborative development and DevOps environments.
 
 This repository now stands as a strong portfolio example of my Git skills and real-world readiness.
+## Summary
+
+This project demonstrates my ability to work with Git in a structured and professional way.  
+It covers repository setup, conflict resolution, advanced Git workflows, recovery from failures, and proper documentation.
