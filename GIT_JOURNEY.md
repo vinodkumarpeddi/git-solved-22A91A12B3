@@ -169,3 +169,5 @@ This repository now stands as a strong portfolio example of my Git skills and re
 
 This project demonstrates my ability to work with Git in a structured and professional way.  
 It covers repository setup, conflict resolution, advanced Git workflows, recovery from failures, and proper documentation.
+
+**Note: This documentation is written based on my own implementation experience and learnings during the project.**
