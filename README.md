@@ -1,46 +1,32 @@
 # DevOps Simulator
 
-A comprehensive CI/CD configuration management tool for enterprise deployments.
+A comprehensive CI/CD configuration and configuration-management simulator for deployments.
 
 ## Project Status
 
-**Version**: 1.0.0  
-**Environment**: Production  
-**Maintainer**: DevOps Team
+- **Version**: 2.0.0-beta
+- **Environment**: Development
+- **Maintainer**: DevOps Team
 
-=======
-**Version**: 2.0.0-beta  
-**Environment**: Development  
-**Maintainer**: DevOps Team
+## New & Notable
+- Kubernetes orchestration support (in progress)
+- Advanced blue-green deployment
+- Enhanced monitoring dashboard
+- OAuth2 authentication (Google, GitHub)
+- Docker Compose integration
+- Multi-cloud support (AWS, Azure, GCP)
+- Slack/Discord notifications
 
-## New Features (In Development)
-- 🚀 Kubernetes orchestration support
-- 🔄 Advanced blue-green deployment
-- 📊 Enhanced monitoring dashboard
-- 🔐 OAuth2 authentication
-- 🐳 Docker Compose integration
-
->>>>>>> dev
 ## Features
 - Automated deployment scripts
 - Real-time monitoring
 - Configuration management
 - Backup and recovery system
 
-
-## Quick Start
-1. Clone the repository
-2. Configure environment variables
-3. Run deployment script
-4. Monitor system health
-=======
-- **NEW**: Multi-cloud support (AWS, Azure, GCP)
-- **NEW**: Slack/Discord notifications
-
-## Quick Start
+## Quick Start (Development)
 1. Clone the repository
 2. Install dependencies: `npm install`
-3. Configure environment variables
+3. Configure environment variables or `config/app-config.yaml`
 4. Run in development mode: `npm run dev`
 5. Access dashboard at http://localhost:3000
 
@@ -56,14 +42,9 @@ npm test
 npm run dev
 ```
 
-
 ## Documentation
-See `/docs` folder for detailed documentation.
+See the `docs/` folder for detailed architecture and operational guides.
 
-
-## License
-MIT License
-=======
 ## Contributing
 Please read CONTRIBUTING.md before submitting pull requests.
 
