@@ -1,0 +1,6 @@
+  conflict-simulator
+  dev
+* main
+  remotes/instructor/dev
+  remotes/instructor/main
+  remotes/origin/main
