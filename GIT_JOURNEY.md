@@ -148,6 +148,11 @@ These artifacts provide a clear snapshot of:
 - Remote configuration
 
 ---
+## Challenges Faced During the Challenge
+
+While working on this challenge, I faced several practical issues such as merge conflicts across multiple file types, interrupted rebases, and stale Git lock files on Windows.  
+
+Resolving these problems required patience and a clear understanding of Git’s internal workflow. These challenges helped me become more confident in debugging Git-related issues instead of relying on trial and error.
 
 ## Final Learnings and Reflections
 
