@@ -1,4 +1,6 @@
 # DevOps Simulator
+## Git Mastery Note
+This repository was created as part of a Git mastery challenge focused on real-world conflict resolution and DevOps workflows.
 
 **EXPERIMENTAL BUILD** - Advanced CI/CD configuration management with AI integration.
 
